@@ -1,0 +1,2 @@
+# Statistical_Functions
+A package of statistical functions in a file stats.cpp. The functions should all have a vector of doubles as input parameter. A header stats.h which makes suitable declarations allowing stats.cpp to be made available to other .cpp files in a project. A main file stats_demo.cpp that includes stats.h and calls the functions in stats.cpp to demonstrate that they work correctly. (You may assume that the vector passed to v is not empty.)
